@@ -1,3 +1,4 @@
+
 #Enteros
 entero = 83
 cadena = str(entero)
